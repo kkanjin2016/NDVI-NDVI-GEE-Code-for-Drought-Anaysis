@@ -1,4 +1,4 @@
-# NDVI-NDVI-GEE-Code-for-Drought-Anaysis
+# NDVI-NDWI-GEE-Code-for-Drought-Anaysis
 
 
 //Define Study Area
